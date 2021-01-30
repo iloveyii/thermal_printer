@@ -6,5 +6,5 @@ I used this guide to install an Xprinter on my ubuntu 20.04. I had to change onl
 
 
 ## Drivers link
- * (Drivers)[https://www.xprintertech.com/for-windows]
+ * [Drivers](https://www.xprintertech.com/for-windows)
  * I downloaded `80 mm Receipt Printer Drivers for Linux `
