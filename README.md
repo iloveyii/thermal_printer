@@ -7,5 +7,5 @@
 
 
 ## Drivers link
- * [Drivers](https://www.xprintertech.com/for-windows)
+ * [Drivers](https://www.xprintertech.com/receipt-printer-linux)
  * I downloaded `80 mm Receipt Printer Drivers for Linux `
